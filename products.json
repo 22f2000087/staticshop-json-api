@@ -2,8 +2,7 @@
     "metadata": {
         "email": "22f2000087@ds.study.iitm.ac.in",
         "version": "d4ab5260"
-    },
-    "products":  [
+    }, [
 {"id":"prod-d4ab5260-001","name":"Basic Item 1","category":"sports","price":145.12,"stock":52,"rating":4.1},
 {"id":"prod-d4ab5260-002","name":"Basic Item 2","category":"home","price":312.45,"stock":88,"rating":3.9},
 {"id":"prod-d4ab5260-003","name":"Elite Item 3","category":"sports","price":278.33,"stock":61,"rating":4.5},
@@ -20,6 +19,7 @@
 {"id":"prod-d4ab5260-014","name":"Premium Item 14","category":"books","price":18.75,"stock":210,"rating":2.9},
 {"id":"prod-d4ab5260-015","name":"Premium Item 15","category":"clothing","price":265.3,"stock":36,"rating":3.1}
 ]
+    
         
         
             
