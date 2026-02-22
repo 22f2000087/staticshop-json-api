@@ -123,52 +123,28 @@
             "price": 474.11,
             "stock": 40,
             "rating": 2.1
-        },
-        {
-            "id": "prod-f13b771b-016",
-            "name": "Standard Item 16",
-            "category": "books",
-            "price": 143.57,
-            "stock": 142,
-            "rating": 2.2
-        },
-        {
-            "id": "prod-f13b771b-017",
-            "name": "Standard Item 17",
-            "category": "clothing",
-            "price": 149.89,
-            "stock": 62,
-            "rating": 1.9
-        },
-        {
-            "id": "prod-f13b771b-018",
-            "name": "Basic Item 18",
-            "category": "books",
-            "price": 313.49,
-            "stock": 199,
-            "rating": 2.4
         }
-    ],
-    "aggregations": {
-        "home": {
-            "count": 3,
-            "inventoryValue": 85353.16
+        ],
+        "aggregations": {
+           "home": {
+             "count": 3,
+             "inventoryValue": 85353.16
         },
-        "electronics": {
-            "count": 2,
-            "inventoryValue": 59534.94
+           "electronics": {
+             "count": 2,
+             "inventoryValue": 59534.94
         },
-        "sports": {
-            "count": 5,
-            "inventoryValue": 149091.39
+           "sports": {
+             "count": 5,
+             "inventoryValue": 149091.39
         },
-        "books": {
-            "count": 4,
-            "inventoryValue": 102728.28
+           "books": {
+             "count": 2,
+             "inventoryValue": 102728.28
         },
-        "clothing": {
-            "count": 4,
-            "inventoryValue": 40515.16
+           "clothing": {
+             "count": 3,
+             "inventoryValue": 40515.16
         }
     }
 }
